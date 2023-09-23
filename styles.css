@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url('file:///C:/Users/vemul/OneDrive/Desktop/rajesh/Meal%20App/Background.jpg');
+    background-image: url("Background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
